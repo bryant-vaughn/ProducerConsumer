@@ -29,7 +29,7 @@ public class Q {
 	}
 
 	// to put an item in buffer
-	void put() {
+	void put(int item) {
 		try {
 			// Before producer can produce an item,
 			// it must acquire a permit from semProd
