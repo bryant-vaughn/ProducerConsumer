@@ -1,6 +1,6 @@
 import java.util.concurrent.Semaphore;
 
-class Q {
+public class Q {
 	// an item
 	int item;
 
